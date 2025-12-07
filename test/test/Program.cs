@@ -1,4 +1,12 @@
+using Microsoft.EntityFrameworkCore;
+using repository.Data;
+
 var builder = WebApplication.CreateBuilder(args);
+var conString = builder.Configuration.GetConnectionString("DefaultDatabase") ??
+     throw new InvalidOperationException("Connection string 'DefaultDatabase'" +
+    " not found.");
+builder.Services.AddDbContext<AppDbContext>(options =>
+    options.UseSqlServer(conString));
 
 // Add services to the container.
 
