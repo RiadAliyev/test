@@ -9,3 +9,5 @@ C:\Users\riada\OneDrive\Masaüstü\test\test\repository\obj\Debug\net8.0\reposit
 C:\Users\riada\OneDrive\Masaüstü\test\test\repository\obj\Debug\net8.0\refint\repository.dll
 C:\Users\riada\OneDrive\Masaüstü\test\test\repository\obj\Debug\net8.0\repository.pdb
 C:\Users\riada\OneDrive\Masaüstü\test\test\repository\obj\Debug\net8.0\ref\repository.dll
+C:\Users\riada\OneDrive\Masaüstü\test\test\repository\obj\Debug\net8.0\repository.csproj.AssemblyReference.cache
+C:\Users\riada\OneDrive\Masaüstü\test\test\repository\obj\Debug\net8.0\repository.sourcelink.json

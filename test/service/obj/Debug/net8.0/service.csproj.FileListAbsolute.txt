@@ -9,3 +9,7 @@ C:\Users\riada\OneDrive\Masaüstü\test\test\service\obj\Debug\net8.0\service.dl
 C:\Users\riada\OneDrive\Masaüstü\test\test\service\obj\Debug\net8.0\refint\service.dll
 C:\Users\riada\OneDrive\Masaüstü\test\test\service\obj\Debug\net8.0\service.pdb
 C:\Users\riada\OneDrive\Masaüstü\test\test\service\obj\Debug\net8.0\ref\service.dll
+C:\Users\riada\OneDrive\Masaüstü\test\test\service\bin\Debug\net8.0\service.runtimeconfig.json
+C:\Users\riada\OneDrive\Masaüstü\test\test\service\obj\Debug\net8.0\service.csproj.AssemblyReference.cache
+C:\Users\riada\OneDrive\Masaüstü\test\test\service\obj\Debug\net8.0\service.sourcelink.json
+C:\Users\riada\OneDrive\Masaüstü\test\test\service\obj\Debug\net8.0\service.genruntimeconfig.cache
